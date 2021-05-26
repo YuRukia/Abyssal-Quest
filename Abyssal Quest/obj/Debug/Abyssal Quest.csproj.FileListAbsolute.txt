@@ -1,0 +1,10 @@
+C:\Users\Connor\source\repos\Abyssal Quest\Abyssal Quest\bin\Debug\Abyssal Quest.exe.config
+C:\Users\Connor\source\repos\Abyssal Quest\Abyssal Quest\bin\Debug\Abyssal Quest.exe
+C:\Users\Connor\source\repos\Abyssal Quest\Abyssal Quest\bin\Debug\Abyssal Quest.pdb
+C:\Users\Connor\source\repos\Abyssal Quest\Abyssal Quest\obj\Debug\Abyssal Quest.csprojAssemblyReference.cache
+C:\Users\Connor\source\repos\Abyssal Quest\Abyssal Quest\obj\Debug\Abyssal_Quest.Properties.Resources.resources
+C:\Users\Connor\source\repos\Abyssal Quest\Abyssal Quest\obj\Debug\Abyssal Quest.csproj.GenerateResource.cache
+C:\Users\Connor\source\repos\Abyssal Quest\Abyssal Quest\obj\Debug\Abyssal Quest.csproj.CoreCompileInputs.cache
+C:\Users\Connor\source\repos\Abyssal Quest\Abyssal Quest\obj\Debug\Abyssal Quest.exe
+C:\Users\Connor\source\repos\Abyssal Quest\Abyssal Quest\obj\Debug\Abyssal Quest.pdb
+C:\Users\Connor\source\repos\Abyssal Quest\Abyssal Quest\obj\Debug\Abyssal_Quest.LoadShip.resources

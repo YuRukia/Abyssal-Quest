@@ -1,0 +1,3 @@
+Firepower: 23 (AA Fuze)
+Rate of Fire: 1 Shots per Turn
+Accuracy: 1.25%/2.5%/3.75%/6.25%

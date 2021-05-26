@@ -1,0 +1,4 @@
+Torpedo Size: 500
+Torpedo Warhead: 0.5
+Torpedo Guidance: 0
+Torpedo Speed: 30

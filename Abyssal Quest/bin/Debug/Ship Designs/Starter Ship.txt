@@ -1,0 +1,49 @@
+BASE
+Tonnage: 500
+Speed: 20
+Experience: 0.5
+MAIN GUNS
+Main Gun ID: Type 0 100mm
+Main Gun Turrets: 2
+Main Guns Per Turret: 1
+Main Gun Turrets Armour: 20
+SECONDARY GUNS
+Secondary Gun ID: Type 0 50mm
+Secondary Gun Turrets: 5
+Secondary Guns Per Turret: 1
+Secondary Gun Turrets Armour: 0
+SMALL AA
+Small AA ID: Type 0 Fifty Caliber AA
+Small AA Turrets: 0
+Small AA Guns Per Turret: 0
+MEDIUM AA
+Medium AA ID: Type 0 Bofors
+Medium AA Turrets: 0
+Medium AA Guns Per Turret: 0
+LARGE AA
+Large AA ID: Type 0 Flak Cannon
+Large AA Turrets: 0
+Large AA Guns Per Turret: 0
+TORPEDO
+Torpedo ID: Type 0 Torpedo
+Torpedos per Launcher: 0
+Torpedo Launchers: 0
+SUPERSTRUCTURE
+Shipwide Main Gun Director: 1
+Shipwide AA Director: 1
+Radio: 0
+Radar: 0
+ARMOUR
+Belt Armour: 5
+Deck Armour: 20
+Superstructure Armour: 5
+RESEARCH
+Shell Penetration: 1
+Ship Design Skill: 1
+Oil Efficiency: 1.4
+Engine Design: 200
+Turret Armour: 3
+Magazine Armour: 3
+Belt Armour: 0.25
+Deck Armour: 0.3
+Superstructure Armour: 0.25
