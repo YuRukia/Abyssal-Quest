@@ -1,0 +1,48 @@
+Tonnage: 500
+Flotation: 440
+Superstructure: 100
+Maintenance: 0.4
+Experience: 0.1
+Cost: 60
+
+Superstructure
+Shipwide Gun Director: 1
+Shipwide AA Director: 1
+Radio: 0
+Radar: 0
+
+Main Guns
+Main Guns: 2 x 100mm
+Positions: 1/2
+
+Secondary Guns
+Secondary Guns: None
+Positions: 0/2
+
+Torpedoes
+Torpedoes: None
+Positions: 0/0
+
+Anti Aircraft
+Small AA: None
+Positions 0/0
+Medium AA: None
+Positions 0/0
+Large AA: None
+Positions 0/0
+
+Armour
+Belt Armour: 0mm
+Deck Armour: 0mm
+Superstructure Armour: 0mm
+Main Gun Turret Armour: 20mm
+Secondary Gun Turret Armour: 0mm
+
+Engine
+Speed: 20
+
+Costs
+2x100mm Main Guns (20 Steel)
+No Armour
+No AA
+20 Knots (20 Steel)

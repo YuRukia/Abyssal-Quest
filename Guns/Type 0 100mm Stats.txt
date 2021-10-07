@@ -1,0 +1,5 @@
+Main Gun Firepower: 6 | 25 (APHE | HE)
+Rate of Fire: 1 Shots per Turn
+Main Gun Belt Penetration: 80mm/40mm/27mm/8mm | 10mm (APHE | HE)
+Main Gun Plunging Penetration: 0mm/4mm/8mm/27mm | 10mm (APHE | HE)
+Main Gun Accuracy: 12.5%/1.25%/0.25%/0.125%
